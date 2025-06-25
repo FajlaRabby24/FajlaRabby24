@@ -9,6 +9,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 <a href="https://www.github.com/FajlaRabby24" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/FajlaRabby24?logo=github&style=for-the-badge&color=ef4444&labelColor=1c1917" /></a>
 
+### About Me
+* currently i'm learning Three.js, R3F, React Three Drei
+
 ### Skills
 
 
