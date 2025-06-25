@@ -16,8 +16,6 @@ Hi, I'm Fajla Rabby! I'm a passionate **Front-End Developer** and **MERN Stack D
 - 🌱 Currently learning **TypeScript** and **Three.js**
 - 🚀 Building a **Car Rental Web** and a **Recipe Boop App**
 - 🔧 Skilled in **React, Node.js, MongoDB, JavaScript**
-- 💬 Happy to collaborate on open-source projects
-- ⚡ Fun fact: I solve coding problems like puzzles and enjoy late-night debugging
 
 
 
