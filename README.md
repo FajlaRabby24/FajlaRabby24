@@ -9,10 +9,10 @@
 ---
 
 ## About Me  
-I am a passionate web developer focused on building scalable and user-friendly web applications.  
+**I am a passionate web developer focused on building scalable and user-friendly web applications.  
 - 
 - Exploring **React.js** and modern technology  
-- Currently exploring about **Three.js, React three fiber, React thee drie, zustend**
+- Currently exploring about **Three.js, React three fiber, React thee drei, zustend**
 - I always try to learn something new.
 
 ---
