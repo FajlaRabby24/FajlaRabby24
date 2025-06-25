@@ -1,8 +1,6 @@
 ![Banner](https://i.ibb.co/ccqRYTtZ/Hi-1.png)
 
-## 💼 Web Developer
 
----
 
 ## 📍 Location & Contact  
 **Location:** Dhaka, Bangladesh  
