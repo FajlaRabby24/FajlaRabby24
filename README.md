@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Fajla Rabby
 
-![Banner](https://your-banner-image-url.com/banner.jpg)
+![Banner](https://i.ibb.co/ccqRYTtZ/Hi-1.png)
 
 ## 💼 Web Developer
 
