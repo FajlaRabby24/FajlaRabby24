@@ -9,8 +9,17 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 <a href="https://www.github.com/FajlaRabby24" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/FajlaRabby24?logo=github&style=for-the-badge&color=ef4444&labelColor=1c1917" /></a>
 
-### About Me
-* currently i'm learning Three.js, R3F, React Three Drei
+## 👋 About Me
+
+Hi, I'm Fajla Rabby! I'm a passionate **Front-End Developer** and **MERN Stack Developer** from Bangladesh. I enjoy creating beautiful, functional websites and web apps that make a difference.
+
+- 🌱 Currently learning **TypeScript** and **Three.js**
+- 🚀 Building a **Car Rental Web** and a **Recipe Boop App**
+- 🔧 Skilled in **React, Node.js, MongoDB, JavaScript**
+- 💬 Happy to collaborate on open-source projects
+- ⚡ Fun fact: I solve coding problems like puzzles and enjoy late-night debugging
+
+
 
 ### Skills
 
