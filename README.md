@@ -10,9 +10,10 @@
 
 ## About Me  
 I am a passionate web developer focused on building scalable and user-friendly web applications.  
-- Exploring **Next.js** and modern React frameworks  
-- Currently working on a **tourism website** project  
-- Actively contributing to open-source projects  
+- 
+- Exploring **React.js** and modern technology  
+- Currently exploring about **Three.js, React three fiber, React thee drie, zustend**
+- I always try to learn something new.
 
 ---
 
