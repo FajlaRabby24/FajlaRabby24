@@ -3,11 +3,8 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Fajla Rabby
 ===================================================================================================================================
 
-* 🌍  I'm based in Dhaka, Bangladesh
-* ✉️  You can contact me at [fajlarabby.dev.gmail.com](mailto:fajlarabby.dev.gmail.com)
 
-<a href="https://www.github.com/FajlaRabby24" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/FajlaRabby24?logo=github&style=for-the-badge&color=ef4444&labelColor=1c1917" /></a>
+
 
 ## 👋 About Me
 
