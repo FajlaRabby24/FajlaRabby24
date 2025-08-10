@@ -65,7 +65,7 @@ Hi, I'm Fajla Rabby! I'm a passionate **Front-End Developer** and **MERN Stack D
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux Toolkit" title="Redux Toolkit"/>
 </a>
 <a href="https://tanstack.com/query/latest" target="_blank" rel="noreferrer">
-  <img src="https://images.seeklogo.com/logo-png/43/1/react-query-logo-png_seeklogo-435661.png" width="36" height="36" alt="TanStack Query" title="TanStack Query"/>
+  <img src="https://i.ibb.co.com/s9hqpB77/react-query-icon.png" width="36" height="36" alt="TanStack Query" title="TanStack Query"/>
 </a>
 <a href="https://www.framer.com/motion/" target="_blank" rel="noreferrer">
   <img src="https://cdn.worldvectorlogo.com/logos/framer-motion.svg" width="36" height="36" alt="Framer Motion" title="Framer Motion"/>
