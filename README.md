@@ -84,8 +84,8 @@ Hi, I'm Fajla Rabby! I'm a passionate **Front-End Developer** and **MERN Stack D
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" title="Firebase"/>
 </a>
-<a href="https://stripe.com/" target="_blank" rel="noreferrer">
-  <img src="https://seeklogo.com/images/S/stripe-logo-0DC0C3A046-seeklogo.com.png" width="36" height="36" alt="Stripe" title="Stripe"/>
+<a href="https://stripe.com/" target="_blank">
+  <img src="https://raw.githubusercontent.com/stripe/stripe-python/master/docs/stripe-logo.png" width="40" alt="Stripe"/>
 </a>
 <a href="https://jwt.io/" target="_blank" rel="noreferrer">
   <img src="https://cdn.worldvectorlogo.com/logos/jwt-3.svg" width="36" height="36" alt="JWT" title="JWT"/>
