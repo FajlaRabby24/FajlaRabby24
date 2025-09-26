@@ -8,7 +8,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 ## 👋 About Me
 
-Hi, I'm Fajla Rabby! I'm a passionate **Front-End Developer** and **MERN Stack Developer** from Bangladesh. I enjoy creating beautiful, functional websites and web apps that make a difference.
+Hi, I'm Fajla Rabby! I'm a passionate **MERN Stack Developer** from Bangladesh. I enjoy creating beautiful, functional websites and web apps that make a difference.
 
 - 🌱 Currently learning **TypeScript** and **Three.js**
 - 🚀 Building a **Car Rental Web** and a **Recipe Boop App**
