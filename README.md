@@ -1,4 +1,4 @@
-<img src="https://i.ibb.co.com/PZFj3Gw1/Hi-1.png" alt="cover image" title="cover image"/>
+<img src="https://res.cloudinary.com/dyuyrigib/image/upload/v1761933629/github_hiqivs.png" alt="cover image" title="cover image"/>
 
 Hi My name is Fajla Rabby
 ===================================================================================================================================
