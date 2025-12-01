@@ -8,7 +8,7 @@ Hi My name is Fajla Rabby
 
 ## 👋 About Me
 
-Hi, I'm Fajla Rabby! I'm a passionate **MERN Stack Developer** from Bangladesh. I enjoy creating beautiful, functional websites and web apps that make a difference.
+Hi, I'm Fajla Rabby! I'm a passionate **Full Stack Developer** from Bangladesh. I enjoy creating beautiful, functional websites and web apps that make a difference.
 
 - 🌱 Currently learning **Next.js** 
 - 🚀 Building a **Medimurt Hub** and a **Car Rental Web**
