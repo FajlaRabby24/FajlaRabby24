@@ -10,7 +10,7 @@ Hi My name is Fajla Rabby
 
 Hi, I'm Fajla Rabby! I'm a passionate **Full Stack Developer** from Bangladesh. I enjoy creating beautiful, functional websites and web apps that make a difference.
 
-- 🌱 Currently learning **Next.js** 
+- 🌱 Currently learning **Golang** 
 - 🚀 Building a **Medimurt Hub** and a **Car Rental Web**
 - 🔧 Skilled in **React, Node.js, MongoDB, JavaScript**
 
