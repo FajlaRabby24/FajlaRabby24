@@ -79,7 +79,7 @@ I'm a full-stack developer who loves turning ideas into real, working web applic
   <tr>
     <td width="50%">
       <h4>🎨 AI Generate Studio</h4>
-      <p>Backend for a full-stack AI SaaS platform where users generate AI-powered images, videos, and audio using free public APIs.</p>
+      <p>Full-stack AI SaaS platform where users generate AI-powered images, videos, and audio using free public APIs.</p>
     </td>
     <td width="50%">
       <h4>🎬 Cinetube</h4>
