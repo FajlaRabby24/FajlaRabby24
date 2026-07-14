@@ -31,7 +31,7 @@
 
 I'm a full-stack developer who loves turning ideas into real, working web applications — from backend APIs to polished UIs. I care about clean code, good UX, and shipping things that actually work.
 
-- 🔭 Currently building **AI Generate Studio** & **Cinetube**
+- 🔭 Currently building **AI Generate Studio**
 - 🌱 Currently learning **Go**
 - 💬 Ask me about **React, Next.js, Node.js, Express, Prisma**
 - 📫 Reach me at **fajlarabby.dev@gmail.com**
