@@ -1,13 +1,14 @@
 <h1 align="center">Hi 👋, I'm Fajla Rabby</h1>
-<h3 align="center">Full Stack Developer</h3>
+<h3 align="center">Full Stack Developer | Building modern web experiences</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=550&lines=I+build+full-stack+web+apps;React+%7C+Next.js+%7C+Node.js+%7C+PostgreSQL;Currently+learning+Go+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=I+build+full-stack+web+apps;React+%7C+Next.js+%7C+Node.js+%7C+PostgreSQL;Currently+learning+Go+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Open%20to%20Work-A855F7?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Fresher-Under Graduate-000000?style=for-the-badge&labelColor=0D0D14&color=A855F7" />
+  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-000000?style=for-the-badge&labelColor=0D0D14&color=A855F7" />
+  <img src="https://img.shields.io/badge/Location-Bangladesh-000000?style=for-the-badge&labelColor=0D0D14&color=A855F7" />
 </p>
 
 <p align="center">
@@ -27,15 +28,15 @@
 
 ---
 
-### 🧑‍💻 About Me
+### 👨‍💻 About Me
 
-I'm a full-stack developer who loves turning ideas into real, working web applications — from backend APIs to polished UIs. I care about clean code, good UX, and shipping things that actually work.
+I’m a passionate full-stack developer who enjoys turning ideas into real, polished, and scalable web applications. I care deeply about clean architecture, smooth user experience, and building products that solve real problems.
 
-- 🔭 Currently building **AI Generate Studio**
-- 🌱 Currently learning **Go**
-- 💬 Ask me about **React, Next.js, Node.js, Express, Prisma**
-- 📫 Reach me at **fajlarabby.dev@gmail.com**
-- 🌐 Portfolio (new one coming soon!): [fajlarabby.netlify.app](https://fajlarabby.netlify.app/)
+- 🔭 Currently building <strong>AI Generate Studio</strong>
+- 🌱 Currently learning <strong>Go</strong>
+- 💡 Interested in <strong>React, Next.js, Node.js, Express, Prisma, PostgreSQL</strong>
+- 📫 Reach me at <strong>fajlarabby.dev@gmail.com</strong>
+- 🌐 Portfolio (new one coming soon!): <a href="https://fajlarabby.netlify.app/" target="_blank">fajlarabby.netlify.app</a>
 
 ---
 
@@ -75,55 +76,67 @@ I'm a full-stack developer who loves turning ideas into real, working web applic
 
 ### 🚀 Featured Projects
 
-<table>
-  <tr>
-    <td width="50%">
-      <h4>🎨 AI Generate Studio</h4>
-      <p>Full-stack AI SaaS platform where users generate AI-powered images, videos, and audio using free public APIs.</p>
-    </td>
-    <td width="50%">
-      <h4>🎬 Cinetube</h4>
-      <p>A movie & series rating portal — users explore, rate (1–10), review, stream, and engage via comments and likes. Admins manage the media library and moderate content.</p>
-    </td>
-  </tr>
-</table>
+- <strong>AI Generate Studio</strong> — A full-stack AI SaaS platform where users can generate AI-powered images, videos, and audio using public APIs.
+- <strong>Cinetube</strong> — A movie and series rating platform with reviews, comments, likes, streaming, and admin moderation features.
 
 ---
 
-### 🏅 Certifications
+### 🏅 Certifications and Achievements
 
-<table>
+I’ve completed two full-stack web development courses and earned recognition for hands-on projects and events. Below are my key certificates and achievements — click any badge to view the file.
+
+<div align="center">
+<table align="center" style="display:flex; justify-content:center;">
   <tr>
-    <td align="center" width="33%">
-      <b>🎓 Full Stack Web Development</b><br/>
-      <sub>Programming Hero</sub><br/><br/>
-      <a href="https://drive.google.com/file/d/1jSnyhFgsdnvoxHosh3ayKomN0q6BpJRO/view?usp=drive_link" target="_blank">
-        <img src="https://img.shields.io/badge/View%20Certificate-000000?style=for-the-badge&logo=googledrive&logoColor=A855F7" />
+    <td align="center" width="50%">
+      <br />
+      <img src="https://img.shields.io/badge/MERN_Course-A855F7?style=for-the-badge&logo=react&logoColor=white" /><br/><br/>
+      <b>🎓 MERN Stack — Full‑Stack Web Development</b><br/>
+      <sub>React • Node.js • Express • MongoDB</sub><br/><br/>
+      <a href="./certificate_student.pdf" target="_blank">
+        <img src="https://img.shields.io/badge/View%20Certificate-000000?style=for-the-badge&logo=github&logoColor=A855F7" />
       </a>
+      <br />
+      <br />
     </td>
-    <td align="center" width="33%">
-      <b>🎓 Full Stack Web Development</b><br/>
-      <sub>Programming Hero</sub><br/><br/>
-      <a href="https://drive.google.com/file/d/1Pj_lgYJHqIupWKYxJ3FcDaCZuYDOt6yE/view" target="_blank">
-        <img src="https://img.shields.io/badge/View%20Certificate-000000?style=for-the-badge&logo=googledrive&logoColor=A855F7" />
+    <td align="center" width="50%">
+      <br />
+      <img src="https://img.shields.io/badge/Advanced_Program-A855F7?style=for-the-badge&logo=nextdotjs&logoColor=white" /><br/><br/>
+      <b>🎓 Advanced Full‑Stack — Next.js, Prisma & PostgreSQL</b><br/>
+      <sub>Next.js • TypeScript • Prisma • PostgreSQL • Go</sub><br/><br/>
+      <a href="./programming_hero_certificate.pdf" target="_blank">
+        <img src="https://img.shields.io/badge/View%20Certificate-000000?style=for-the-badge&logo=github&logoColor=A855F7" />
       </a>
+      <br />
+      <br />
     </td>
-    <td align="center" width="33%">
-      <b>🥋 Black Belt Certificate</b><br/>
-      <sub>Programming Hero</sub><br/><br/>
-      <a href="https://drive.google.com/file/d/1uo9TDbdWTlDHuSq26T04Dk2mDISnpyaC/view?usp=drive_link" target="_blank">
-        <img src="https://img.shields.io/badge/View%20Certificate-000000?style=for-the-badge&logo=googledrive&logoColor=A855F7" />
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <br />
+      <img src="https://img.shields.io/badge/Achievement-A855F7?style=for-the-badge&logo=credly&logoColor=white" /><br/><br/>
+      <b>🥋 Black Belt — Programming Hero Achievement</b><br/>
+      <sub>Merit award for course progression</sub><br/><br/>
+      <a href="./blackbelt.png" target="_blank">
+        <img src="https://img.shields.io/badge/View%20Certificate-000000?style=for-the-badge&logo=github&logoColor=A855F7" />
       </a>
+      <br />
+      <br />
     </td>
-    <td align="center" width="33%">
-      <b>🏆 Hackathon Participation</b><br/>
-      <sub>Certificate</sub><br/><br/>
-      <a href="https://drive.google.com/file/d/1W4OxGddfy7q6W8uT1J3ZhNgQS9IO1YMh/view?usp=sharing" target="_blank">
-        <img src="https://img.shields.io/badge/View%20Certificate-000000?style=for-the-badge&logo=googledrive&logoColor=A855F7" />
+    <td align="center" width="50%">
+      <br />
+      <img src="https://img.shields.io/badge/Events-A855F7?style=for-the-badge&logo=devpost&logoColor=white" /><br/><br/>
+      <b>🏆 Hackathon Participant — Technovation'25</b><br/>
+      <sub>Team project & participation</sub><br/><br/>
+      <a href="./hackathon_certificate.png" target="_blank">
+        <img src="https://img.shields.io/badge/View%20Certificate-000000?style=for-the-badge&logo=github&logoColor=A855F7" />
       </a>
+      <br />
+      <br />
     </td>
   </tr>
 </table>
+</div>
 
 ---
 
@@ -135,7 +148,7 @@ I'm a full-stack developer who loves turning ideas into real, working web applic
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FajlaRabby24&theme=radical&hide_border=true&background=0D0D14&stroke=A855F7&ring=A855F7&fire=EC4899&currStreakLabel=A855F7" />
+  <img src="https://streak-stats.demolab.com?user=FajlaRabby24&theme=radical&hide_border=true&background=0D0D14&stroke=A855F7&ring=A855F7&fire=EC4899&currStreakLabel=A855F7" />
 </p>
 
 <p align="center">
@@ -148,4 +161,4 @@ I'm a full-stack developer who loves turning ideas into real, working web applic
   <img src="https://komarev.com/ghpvc/?username=FajlaRabby24&label=Profile%20Views&color=A855F7&style=for-the-badge" />
 </p>
 
-<p align="center"><i>⭐ From <a href="https://github.com/FajlaRabby24">FajlaRabby24</a> — always open to interesting projects and collaborations!</i></p>
+<p align="center"><i>⭐ From <a href="https://github.com/FajlaRabby24">FajlaRabby24</a> — always open to interesting projects and collaborations.</i></p>
