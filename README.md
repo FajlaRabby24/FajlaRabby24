@@ -102,6 +102,13 @@ I'm a full-stack developer who loves turning ideas into real, working web applic
       </a>
     </td>
     <td align="center" width="33%">
+      <b>🎓 Full Stack Web Development</b><br/>
+      <sub>Programming Hero</sub><br/><br/>
+      <a href="https://drive.google.com/file/d/1Pj_lgYJHqIupWKYxJ3FcDaCZuYDOt6yE/view" target="_blank">
+        <img src="https://img.shields.io/badge/View%20Certificate-000000?style=for-the-badge&logo=googledrive&logoColor=A855F7" />
+      </a>
+    </td>
+    <td align="center" width="33%">
       <b>🥋 Black Belt Certificate</b><br/>
       <sub>Programming Hero</sub><br/><br/>
       <a href="https://drive.google.com/file/d/1uo9TDbdWTlDHuSq26T04Dk2mDISnpyaC/view?usp=drive_link" target="_blank">
