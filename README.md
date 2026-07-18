@@ -157,8 +157,4 @@ I’ve completed two full-stack web development courses and earned recognition f
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=FajlaRabby24&label=Profile%20Views&color=A855F7&style=for-the-badge" />
-</p>
-
 <p align="center"><i>⭐ From <a href="https://github.com/FajlaRabby24">FajlaRabby24</a> — always open to interesting projects and collaborations.</i></p>
