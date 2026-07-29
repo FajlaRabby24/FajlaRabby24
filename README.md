@@ -21,7 +21,7 @@
   <a href="mailto:fajlarabby.dev@gmail.com">
     <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=A855F7" />
   </a>
-  <a href="https://drive.google.com/file/d/1ZTOh4Dah3NfOCeJTCgB4PcB1aI4ucF1Y/view?usp=drive_link" target="_blank">
+  <a href="https://drive.google.com/file/d/1sOzw7brSAQ8gWbYcTpiQ7w5W4hUyblMv/view?usp=drive_link" target="_blank">
     <img src="https://img.shields.io/badge/Resume-000000?style=for-the-badge&logo=googledrive&logoColor=A855F7" />
   </a>
 </p>
