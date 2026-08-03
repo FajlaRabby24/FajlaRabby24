@@ -93,7 +93,7 @@ I’ve completed two full-stack web development courses and earned recognition f
       <img src="https://img.shields.io/badge/MERN_Course-A855F7?style=for-the-badge&logo=react&logoColor=white" /><br/><br/>
       <b>🎓 MERN Stack — Full‑Stack Web Development</b><br/>
       <sub>React • Node.js • Express • MongoDB</sub><br/><br/>
-      <a href="./certificate_student.pdf" target="_blank">
+      <a href="https://drive.google.com/file/d/1Yvpg7n9UPJb2ZfyswcepRw4_n3g2824L/view?usp=drive_link" target="_blank">
         <img src="https://img.shields.io/badge/View%20Certificate-000000?style=for-the-badge&logo=github&logoColor=A855F7" />
       </a>
       <br />
@@ -104,7 +104,7 @@ I’ve completed two full-stack web development courses and earned recognition f
       <img src="https://img.shields.io/badge/Advanced_Program-A855F7?style=for-the-badge&logo=nextdotjs&logoColor=white" /><br/><br/>
       <b>🎓 Advanced Full‑Stack — Next.js, Prisma & PostgreSQL</b><br/>
       <sub>Next.js • TypeScript • Prisma • PostgreSQL • Go</sub><br/><br/>
-      <a href="./programming_hero_certificate.pdf" target="_blank">
+      <a href="https://drive.google.com/file/d/153kqmnxiN7RN3ycAAOKPxNKIQG5A0ROz/view?usp=drive_link" target="_blank">
         <img src="https://img.shields.io/badge/View%20Certificate-000000?style=for-the-badge&logo=github&logoColor=A855F7" />
       </a>
       <br />
@@ -117,7 +117,7 @@ I’ve completed two full-stack web development courses and earned recognition f
       <img src="https://img.shields.io/badge/Achievement-A855F7?style=for-the-badge&logo=credly&logoColor=white" /><br/><br/>
       <b>🥋 Black Belt — Programming Hero Achievement</b><br/>
       <sub>Merit award for course progression</sub><br/><br/>
-      <a href="./blackbelt.png" target="_blank">
+      <a href="https://drive.google.com/file/d/1nRx5L4NSbyk7dxDLFXd4-RfSvxERE8u9/view?usp=drive_link" target="_blank">
         <img src="https://img.shields.io/badge/View%20Certificate-000000?style=for-the-badge&logo=github&logoColor=A855F7" />
       </a>
       <br />
@@ -128,7 +128,7 @@ I’ve completed two full-stack web development courses and earned recognition f
       <img src="https://img.shields.io/badge/Events-A855F7?style=for-the-badge&logo=devpost&logoColor=white" /><br/><br/>
       <b>🏆 Hackathon Participant — Technovation'25</b><br/>
       <sub>Team project & participation</sub><br/><br/>
-      <a href="./hackathon_certificate.png" target="_blank">
+      <a href="https://drive.google.com/file/d/1McbxraHH6EO3hHya7JbRbEbXgDjNb_ge/view?usp=drive_link" target="_blank">
         <img src="https://img.shields.io/badge/View%20Certificate-000000?style=for-the-badge&logo=github&logoColor=A855F7" />
       </a>
       <br />
