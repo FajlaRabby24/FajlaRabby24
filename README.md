@@ -15,7 +15,7 @@
   <a href="https://www.linkedin.com/in/fajlarabby24/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-A855F7?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://fajlarabby.netlify.app/" target="_blank">
+  <a href="https://fajlarabby.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=A855F7" />
   </a>
   <a href="mailto:fajlarabby.dev@gmail.com">
@@ -36,7 +36,6 @@ I’m a passionate full-stack developer who enjoys turning ideas into real, poli
 - 🌱 Currently learning <strong>Go</strong>
 - 💡 Interested in <strong>React, Next.js, Node.js, Express, Prisma, PostgreSQL</strong>
 - 📫 Reach me at <strong>fajlarabby.dev@gmail.com</strong>
-- 🌐 Portfolio (new one coming soon!): <a href="https://fajlarabby.netlify.app/" target="_blank">fajlarabby.netlify.app</a>
 
 ---
 
