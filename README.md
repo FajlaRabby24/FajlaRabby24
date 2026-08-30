@@ -44,8 +44,10 @@ I’m a passionate full-stack developer who enjoys turning ideas into real, poli
 <p align="left">
   <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=A855F7" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=A855F7" />
+  <img src="https://img.shields.io/badge/Redux-000000?style=for-the-badge&logo=nextdotjs&logoColor=A855F7" />
   <img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=A855F7" />
   <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=A855F7" />
+  <img src="https://img.shields.io/badge/Nest.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=A855F7" />
   <img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=A855F7" />
   <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=A855F7" />
   <img src="https://img.shields.io/badge/Go-000000?style=for-the-badge&logo=go&logoColor=A855F7" />
